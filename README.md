@@ -4,7 +4,7 @@
 ## Table of content 
  
  class   |  Link
- ----------------------
+ --------|--------------
  class01 |  [class01](https://amalmalmomani.github.io/reading-notes/class01)
  class02 |  [class02](https://amalmalmomani.github.io/reading-notes/class02)
  class03 |  [class03](https://amalmalmomani.github.io/reading-notes/class03)

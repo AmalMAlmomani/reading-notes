@@ -99,7 +99,7 @@
    - COMPARISON OPERATORS
 
 # Decisions and Loops
-**There are two components to a decision:
+**There are two components to a decision:**
   - 1. An expression is evaluated, which returns a value
   - 2. Aconditional statement says what to do in a given situation
 

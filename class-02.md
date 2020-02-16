@@ -62,7 +62,7 @@
     - Universal Selector `* {}`
       - Targets all elements on the page
     - Type Selector `h1, h2, h3 {}`
-      - Targets the <h1>, <h2> and <h3> elements
+      - Targets the `<h1>, <h2> and <h3>` elements
     - Class Selector `.note {}`
       - Targets any element whose class attribute has a value of note
     - ID Selector `#introduction {}`

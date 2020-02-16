@@ -4,7 +4,8 @@
 **structure:**
 ```is very important in helping readers to understand the messages you are trying to convey and to navigate around the document.```
 
-#### Elements : `are usually made up of two tags: an opening tag and a closing tag.(The closing tag has an extra forward slash in it.)`
+#### Elements :
+ - `are usually made up of two tags: an opening tag and a closing tag.(The closing tag has an extra forward slash in it.)`
 
 **HTML Uses Elements to Describe the Structure of Pages**
 

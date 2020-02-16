@@ -10,12 +10,14 @@
 
 **Attributes: provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of *two parts*: a name and a value, separated by an equals sign.**
 
-**Anything written between the <title> tags will appear in the title bar (or tabs) at the top of the browser window, highlighted in orange here.**
-**Anything written between the <body> tags will appear in the main browser window, highlighted in blue here.**
+**Anything written between the `<title>` tags will appear in the title bar (or tabs) at the top of the browser window, highlighted in orange here.**
+**Anything written between the `<body>` tags will appear in the main browser window, highlighted in blue here.**
 
 
 # Extra Markup
-## Comments in HTML: `<!-- comment goes here -->`
+
+## Comments in HTML:
+  -  `<!-- comment goes here -->`
 **ID attribute:**
   - It is used to uniquely identify that element from other elements on the page.
   - As you will see when you come to look at CSS in the next section, giving an element a unique identity allows you to style it differently than any other instance of the same element on the page.
@@ -139,6 +141,7 @@
    - REACT TO EVENTS: You can specify that a script should run when a specific event has occurred.
    
  ### A script: is a series of instructions that a computer can follow to achieve a goal.
+
  **Vocabulary: The words that computers understand.**
  **Syntax: How you put those words together to create instructions computers can follow.**
  **Each time the script runs, it might only use a subset of all the instructions.**

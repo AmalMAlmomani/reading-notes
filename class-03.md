@@ -14,7 +14,7 @@
       - `<dt>` contain the term being defined (the definition term).
       - `<dd>` used to contain the definition.
 
-    **Lists can be nested inside one another.**
+**Lists can be nested inside one another.**
 
 # Boxes 
 ### Box Dimensions
@@ -85,8 +85,8 @@
  # Decisions and Loops
 **SWITCH STATEMENTS**
 
-*type coercion* : JavaScript can convert data types behind the scenes to complete an operation.
-*unary operator* : returns a result with just one operand
+ - *type coercion* : JavaScript can convert data types behind the scenes to complete an operation.
+ - *unary operator* : returns a result with just one operand
 
 ### Loops 
    - for

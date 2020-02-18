@@ -2,7 +2,7 @@
 **Writing Links**
  - `<a herf=""> Links are created </a>`
 
-## Relative Link Type:
+### Relative Link Type:
   - Same Folder
     - To link to a file in the same folder, just use the file name.
   - Child Folder

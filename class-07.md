@@ -5,20 +5,20 @@
 - **An entity** that stores data in properties and encapsulates behaviors in methods is commonly referred to as an *object-oriented* model.
 
 
-# Tables .126-145
+# Tables 
 - **table:** represents information in a grid format. Examples of tables include financial reports, TV schedules, and sports results.
 - Basic Table Structure:
-  - '<table>'
-    - '<tr> table row </tr>'
-      - '<th> table heading</th>'
-      - '<td> table data </td> '
+  - `<table>`
+    - `<tr> table row </tr>`
+      - `<th> table heading</th>`
+      - `<td> table data </td> `
  - **Spanning Columns:** Sometimes you may need the entries in a table to stretch across more than one column.
  - **Spanning Rows:** You may also need entries in a table to stretch down across more than one row.
- - **For long tables you can split the table into a '<thead>', '<tbody>', and '<tfoot>'.**
+ - **For long tables you can split the table into a `<thead>, <tbody>, and <tfoot>`.**
 
 
 
-# Functions, Methods, and Objects 106-144
+# Functions, Methods, and Objects 
 
 **CREATING MANY OBJECTS:**
   - CONSTRUCTOR NOTATION

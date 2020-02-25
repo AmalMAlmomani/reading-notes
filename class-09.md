@@ -62,7 +62,7 @@
 - **Gaps Between Cells:**
   - border-spacing, border-collapse
    
-# Chapter 6: Events (pp.243-292)
+# Events 
 
 - there are three steps involved in getting it to trigger some JavaScript code. Together these steps are known as **event handling**.
    - 1. Select t he element node(s) you want the script to respond to.
